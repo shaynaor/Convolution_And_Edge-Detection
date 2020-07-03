@@ -12,7 +12,7 @@ def myID() -> np.int:
     Return my ID
     :return: int
     """
-    return 206125767
+    return 00000
 
 
 def imReadAndConvert(filename: str, representation: int) -> np.ndarray:
